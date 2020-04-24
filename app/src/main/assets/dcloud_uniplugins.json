@@ -1,0 +1,22 @@
+{
+  "nativePlugins": [
+    {
+      "hooksClass": "",
+      "plugins": [
+        {
+          "type": "module",
+          "name": "saber-RichAlert",
+          "class": "uni.dcloud.io.uniplugin_richalert.RichAlertWXModule"
+        },
+        {
+          "type": "module",
+          "name": "saber-SelectApp",
+          "class": "com.jlkj.uniapp_selectapp.SelectAppWXModule"
+        }
+      ]
+    },
+    {
+      "hooksClass": "uni.dcloud.io.uniplugin_stepcounter.StepCounterHookProxy"
+    }
+  ]
+}
