@@ -12,6 +12,11 @@
           "type": "module",
           "name": "saber-SelectApp",
           "class": "com.jlkj.uniapp_selectapp.SelectAppWXModule"
+        },
+        {
+          "type": "module",
+          "name": "saber-selectSms",
+          "class": "com.jlkj.uniplugin_sms.SmsWXModule"
         }
       ]
     },

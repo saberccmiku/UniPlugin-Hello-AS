@@ -55,4 +55,6 @@ dependencies {
     implementation project(':uniplugin_richalert')
     // 添加uni-app插件
     implementation project(':uniapp_selectapp')
+    // 添加uni-app插件
+    implementation project(':uniplugin_sms')
 }

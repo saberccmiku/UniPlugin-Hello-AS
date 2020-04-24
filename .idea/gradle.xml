@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/uniapp_selectapp" />
             <option value="$PROJECT_DIR$/uniplugin_richalert" />
+            <option value="$PROJECT_DIR$/uniplugin_sms" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
